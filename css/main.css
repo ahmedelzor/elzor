@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(54, 54, 54);
+    color: white;}
+/*   Start nav''''''''''''''' */
+.navbar{
+    background-image: linear-gradient(to right, rgba(6, 7, 51, 0.76)70% ,rgb(255, 255, 255)) ;}
+nav ul a{
+    color: white !important;
+    margin: 0px 10px;
+    transition: all 0.5s;}
+.navbar ul a:hover{
+    background-color: white;
+    color: black !important;
+    font-weight: 500px;
+    border-radius: 20%;}
+.dropdown-item{
+    color: black !important;}
+.navbar-brand img{
+    background-color: white;
+    width: 100px;
+    border-radius: 30%;} 
+/*  End nav''''''''''''''''''''' */
+.carouselExampleSlidesOnly{
+    transition: all 0.5s;}
+.hr{
+    width: 50%;
+    height: 5px;
+    background: linear-gradient( to left, red, #111 , red);
+    border-radius: 50%;
+    margin: auto;}
+.roro img{
+    height: 250px;
+    width: 400px;
+    border-radius: 10% !important;
+}
+.mohamed{
+    width: 650px;
+    height: 400px;}
+.memo li a{
+    color: rgb(114, 114, 114);}
+.par{
+    color: rgb(114, 114, 114)}
+html{
+    scroll-behavior: smooth;}
